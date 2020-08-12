@@ -135,7 +135,8 @@
   * Continuous Integration (Travis CI, Jenkins)
 
 **Links**
-	[The System Design Primer: Prep for the system design interview and learn how to design large scale systems ](https://github.com/donnemartin/system-design-primer)
+
+	[The System Design Primer: Prep for the system design interview and learn how to design large scale systems ](https://github.com/donnemartin/system-design-primer/)
 
 	[How to rock a systems design interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 
